@@ -18,7 +18,7 @@ cp .env.example .env.local
 npm install
 ```
 
-3. Run the Next.JS Development Server
+3. Run the Node.JS Development Server
 
 ```bash
 node index.js
